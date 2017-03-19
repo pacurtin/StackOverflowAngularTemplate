@@ -1,0 +1,16 @@
+{
+  "devDependencies": {},
+  "engines": {"node": ">=0.10.0"},
+  "name": "stackOverflowAngularTemplate",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pacurtin/StackOverflowAngularTemplate.git"
+  },
+  "licence":"MIT",
+  "dependencies": {
+    "angular": "^1.6.3",
+    "angular-route": "^1.6.3",
+    "express": "^4.15.2"
+  }
+}
